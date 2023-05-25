@@ -1,0 +1,2 @@
+Contact{firstName='hasidwe', lastName='efihw', address='envw', city='eoer', state='lv', zip='eoir', phoneNumber='lknmsv', email='wojer'}
+Contact{firstName='w;mer', lastName='rjog]wl', address='nwl', city='wewv;mwwe', state='nrl', zip='wewg', phoneNumber='wlknr', email='w;jw'}
